@@ -10,31 +10,31 @@ function Footer() {
                 </div>
                 <div className='col'>
                     <p>Company</p>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Products</a><br/>
-                    <a href='' style={{textDecoration:"none" ,color:"black"}}>About</a><br/>   
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Pricing</a><br/>
-                    <a href='' style={{textDecoration:"none" ,color:"black"}}>Referral programme</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Careers</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Zerodha.tech</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Press & media</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Zerodha Cares (CSR)</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Products</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none" ,color:"black"}}>About</a><br/>   
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Pricing</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none" ,color:"black"}}>Referral programme</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Careers</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Zerodha.tech</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Press & media</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Zerodha Cares (CSR)</a><br/>
                 </div>
                 <div className='col'>
                     <p>Support</p>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Contact us</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Support portal</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Z-Connect blog</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>List of charges</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Downloads & resources</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Videos</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Market overview</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>How to file a complaint?</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Status of your complaints</a><br/>
+                    <a href='https://www.apnacollege.in/starhttps://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Contact us</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Support portal</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Z-Connect blog</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>List of charges</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Downloads & resources</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Videos</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Market overview</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>How to file a complaint?</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Status of your complaints</a><br/>
                 </div>
                 <div className='col'>
                     <p>Account</p>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Open an account</a><br/>
-                    <a href='' style={{textDecoration:"none", color:"black"}}>Fund transfer</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Open an account</a><br/>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", color:"black"}}>Fund transfer</a><br/>
                 </div>
             </div>
             <div className='mt-5 text-muted' style={{fontSize:"14px"}}>
