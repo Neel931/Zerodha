@@ -19,7 +19,7 @@ function Signuo() {
                     >
                         Continue
                     </button><br/>
-                    <a href='' style={{textDecoration:"none", paddingTop:"100px"}}>Want to open an NRI account?</a>
+                    <a href='https://www.apnacollege.in/start' style={{textDecoration:"none", paddingTop:"100px"}}>Want to open an NRI account?</a>
 
                 </div>
             </div>

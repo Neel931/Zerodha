@@ -21,8 +21,8 @@ function Stats() {
           <div className='col-6'>
             <img src='media/images/ecosystem.png' style={{width:"90%"}}/>
             <div className='text-center'>
-              <a href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa-solid fa-arrow-right"></i></a>
-              <a href='' style={{textDecoration:"none"}}>Try kite demo <i class="fa-solid fa-arrow-right"></i> </a>
+              <a href='https://www.apnacollege.in/start' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa-solid fa-arrow-right"></i></a>
+              <a href='https://www.apnacollege.in/start' style={{textDecoration:"none"}}>Try kite demo <i class="fa-solid fa-arrow-right"></i> </a>
             </div>
           </div>
         </div>

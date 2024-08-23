@@ -23,10 +23,10 @@ function Hero() {
           <h1 className="fs-3">Featured</h1>
           <ol>
             <li>
-              <a href=""  style={{color:"white"}}>Current Takeovers and Delisting - January 2024</a>
+              <a href="https://www.apnacollege.in/start"  style={{color:"white"}}>Current Takeovers and Delisting - January 2024</a>
             </li>
             <li>
-              <a href=""  style={{color:"white"}}>Latest Intraday leverages - MIS & CO</a>
+              <a href="https://www.apnacollege.in/start"  style={{color:"white"}}>Latest Intraday leverages - MIS & CO</a>
             </li>
           </ol>
         </div>
