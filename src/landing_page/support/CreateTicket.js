@@ -6,7 +6,7 @@ function CreateTicket() {
       <div className="row p-5 mt-5 mb-5">
         <h1 className="fs-2">To create a ticket, select a relevant topic</h1>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
+          <h4>
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
           </h4>
           <a href="https://www.apnacollege.in/start" style={{ textDecoration: "none", lineHeight: "2.5" }}>
@@ -157,7 +157,7 @@ function CreateTicket() {
           <h4>
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
           </h4>
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+          <a href="https://www.apnacollege.in/start" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Online Account Opening
           </a>
           <br />

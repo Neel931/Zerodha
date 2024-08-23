@@ -25,10 +25,10 @@ function Hero() {
                     In addition, we run a number of popular open online educational and community initiatives to empower retail traders and investors
                 </p>
                 <p>
-                <a href='' style={{textDecoration:"none"}}>Rainmatter,</a> our fintech fund and incubator, has invested in several fintech startups with the goal of growing the Indian capital markets.
+                <a href='https://www.apnacollege.in/start' style={{textDecoration:"none"}}>Rainmatter,</a> our fintech fund and incubator, has invested in several fintech startups with the goal of growing the Indian capital markets.
                 </p>
                 <p>
-                And yet, we are always up to something new every day. Catch up on the latest updates on our<a href='' style={{textDecoration:"none"}}>blog</a>  or see what the media is <a href='' style={{textDecoration:"none"}}>saying about us.</a>
+                And yet, we are always up to something new every day. Catch up on the latest updates on our<a href='https://www.apnacollege.in/start' style={{textDecoration:"none"}}>blog</a>  or see what the media is <a href='https://www.apnacollege.in/start' style={{textDecoration:"none"}}>saying about us.</a>
                 </p>
                </div>
             </div>

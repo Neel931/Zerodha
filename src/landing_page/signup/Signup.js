@@ -5,7 +5,7 @@ function Signuo() {
             <div className='row'>
             <div className='col-1'></div>
                 <div className='col-6'>
-                    <img src='media/images/signup.png' style={{width:"95%"}}/>
+                    <img src='media/images/signup.png' alt="abc" style={{width:"95%"}}/>
                 </div>
                 <div className='col-1'></div>
                 <div className='col-4 mt-5'>
